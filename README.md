@@ -105,4 +105,6 @@ Ensuite, une fenêtre graphique s’ouvrira. Tu pourras :
 
 Développé par **Razafindrajoa Tsitohaina **  
 📫 rztsitohaina@gmail.com
+
+![Aperçu de l’application](APK.jpg)
 +2610388103083
