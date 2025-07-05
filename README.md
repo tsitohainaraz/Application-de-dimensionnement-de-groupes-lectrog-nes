@@ -106,5 +106,5 @@ Ensuite, une fenêtre graphique s’ouvrira. Tu pourras :
 Développé par **Razafindrajoa Tsitohaina **  
 📫 rztsitohaina@gmail.com
 
-![Aperçu de l’application](APK.jpg)
+![Aperçu de l’application](APK1.png)
 +2610388103083
